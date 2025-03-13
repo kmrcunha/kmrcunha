@@ -8,7 +8,7 @@
 ### Formação 🎓
 - ✨  Técnico Informática 💻
 - ✨  Bacharelado em Sistemas de Informação 📚
-- ✨  Mestrado em Redes de Computadores 📚
+- ✨  Mestrado em Ciência da Computação, Redes de Computadores 📚
 
 
 
